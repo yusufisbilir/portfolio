@@ -5,8 +5,8 @@ export default function Experience() {
       company: "Self-employed",
       period: "May 2025 - Present",
       description: [
-        "Full-Stack Development: Architected and deployed production-ready applications.",
-        "Backend Stack: Node.js, PostgreSQL, Supabase, NeonDB."
+        "Full-Stack Development: Architected and deployed production-ready applications for clients including Tadım, focusing on scalable BaaS integrations and robust Node.js backends.",
+        "I have gained backend development experience using Node.js, PostgreSQL, Supabase, and NeonDB."
       ]
     },
     {
@@ -14,9 +14,9 @@ export default function Experience() {
       company: "MonSpark",
       period: "Apr 2022 - May 2025",
       description: [
-        "Core member of frontend team for monitoring product (140+ countries).",
-        "Stack: React Hooks, Context API, Redux, Next.js, Tailwind CSS.",
-        "Focus: Performance, Responsive Design, State Management."
+        "Contributed to the development of a large-scale monitoring product with thousands of active users.",
+        "Built and maintained responsive, high-performance user interfaces using modern frontend technologies, including React Hooks, Context API, and advanced state management solutions like Redux.",
+        "Worked extensively with Next.js, Tailwind CSS, Framer Motion, and component libraries to enhance the UI/UX."
       ]
     },
     {
@@ -24,8 +24,9 @@ export default function Experience() {
       company: "Peyk Cybersec Inc.",
       period: "Feb 2022 - Apr 2022",
       description: [
-        "Developed case studies using ReactJS, Tailwind CSS, Mantine.",
-        "Implemented advanced libraries (Leaflet, Grid Layout)."
+        "Developed case studies using ReactJS, Tailwind CSS, and Mantine.",
+        "Worked with advanced ReactJS libraries such as Leaflet and Grid Layout.",
+        "Gained hands-on experience with real-world projects during the internship."
       ]
     },
     {
@@ -33,8 +34,9 @@ export default function Experience() {
       company: "Self-employed",
       period: "Feb 2021 - Feb 2022",
       description: [
-        "Delivered 36 GitHub projects.",
-        "Stack: MERN (MongoDB, Express, React, Node), EJS, Sass."
+        "Developed 36 GitHub projects.",
+        "Worked with technologies such as Node.js, Express, EJS, MongoDB, Mongoose, HTML, CSS, Sass, JavaScript, OOP, and ReactJS.",
+        "Focused on self-learning and hands-on application, with an emphasis on building projects and expanding technical expertise through GitHub contributions."
       ]
     }
   ];
