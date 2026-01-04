@@ -6,8 +6,8 @@ export default function Education() {
       period: "2020 - 2022",
       gpa: "3.83/4.00 (Top of Class)",
       highlights: [
-        "Frontend Development Internship",
-        "OOP & Database Systems"
+        "A 5-month internship as a frontend web developer at a cybersecurity startup.",
+        "Expertise in SQL databases and Object-Oriented Programming (OOP) with JavaScript."
       ]
     }
   ];
